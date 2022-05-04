@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-04-28T00:47:45.799244",
+    "startedAt": "2022-04-28T00:47:39.836233",
+    "docker": null,
+    "gpu": "NVIDIA GeForce MX350",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "/home/lucasismael/anaconda3/envs/colab2deploy/bin/uvicorn",
+    "git": {
+        "remote": "https://github.com/lucasismael/EECML50K.git",
+        "commit": "87c348aa9e162140b65d7d386ca278a4c4b3cb87"
+    },
+    "email": "lucas.medeiros.114@ufrn.edu.br",
+    "root": "/home/lucasismael/EECML50K",
+    "host": "LAPTOP-LUCASM",
+    "username": "lucasismael",
+    "executable": "/home/lucasismael/anaconda3/envs/colab2deploy/bin/python"
+}
